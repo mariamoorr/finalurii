@@ -1,0 +1,149 @@
+.tet {  
+
+  width: 70px;
+  height: 70px;
+  margin-top: 30px;
+  margin-left: 70px;
+
+ }
+
+.cee {
+
+margin-top: -30px;
+
+}
+
+
+.png {
+
+  display:flex;
+  justify-content:space-between;
+  margin-right: 180px;
+  font-family: cursive;
+  margin-top:-30px;
+  margin-bottom: 80px;
+  margin-left: 150px;
+  font-size: 20px;
+}
+
+ .com {
+ 
+  background-image: url(https://i0.wp.com/pixahive.com/wp-content/uploads/2020/11/Book-aesthetic-208274-pixahive.jpg?fit=2560%2C1779&ssl=1);
+    height:400px;
+    width: 1300px;
+   background-size: cover;
+ background-repeat: no-repeat;
+  text-align: center;
+  font-family: cursive;
+  font-size: 40px;
+  color: white;
+  padding-top: 120px;
+ }
+ 
+ 
+
+ .ppp {
+   display:flex;
+   justify-content: space-between;
+ } 
+
+  .photos  {
+
+   display: flex;
+   justify-content: space-around;
+   margin-top: 90px;
+
+  }
+
+ .them {
+    text-align: center;
+    margin-top: 60px;
+    font-size:30px ;
+    font-family:papyrus;
+    font-weight: 600;
+   text-shadow: 2px 2px;
+   
+}
+
+.writters {
+
+  display: flex;
+   justify-content: space-around;
+   margin-top: 50px;
+   font-family:cursive, lucida handwritting;
+   font-size: 20px;
+   margin-bottom: 50px;
+   text-decoration: underline;
+
+}
+
+.rio {
+
+   font-size: 50px;
+   margin-top: 80px;
+   text-align: center;
+   font-family: monospace;
+   background-image: url(https://miro.medium.com/v2/resize:fit:1400/0*WhFMC5MEaQQPDh22);
+   height: 300px;
+   background-repeat: no-repeat;
+   width: 1300px;
+   background-size: cover;
+   color: white;
+   text-shadow: 2px 2px;
+   padding-top: 170px;
+}
+.tbc {
+   font-size: 40px;
+   margin-left: 20px;
+   margin-top: 40px;
+   text-decoration: none;
+
+} 
+.imgg {
+ margin-left: 50px;
+  margin-top: 40px;
+
+
+
+}
+.about {
+
+margin-top:0px;
+margin-bottom: 400px;
+margin-left: 50px;
+height: 1000px;
+ font-size: 15px;
+}
+
+.container {
+margin-top:-20px;
+background-color: lightgrey;
+ height:700px;
+ margin-left: 80px;
+}
+
+.search {
+ 
+ margin-left: 400px;
+ 
+}
+
+
+.help {
+  margin-top:-500px;
+ margin-left:600px;
+ font-size: 25px;
+ font-family: cursive;
+ text-decoration: underline;
+ 
+}
+
+
+.cont {
+ margin-left: 800px;
+  margin-top: -60px;
+ font-size: 25px;
+ font-family: cursive;
+ text-decoration: underline;
+
+}
