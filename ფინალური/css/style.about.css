@@ -1,0 +1,211 @@
+.tet {  
+
+  width: 70px;
+  height: 70px;
+  margin-top: 30px;
+  margin-left: 70px;
+
+ }
+
+.cee {
+
+margin-top: -30px;
+
+
+}
+
+
+.png {
+
+  display:flex;
+  justify-content: space-between;
+  margin-right: 120px;
+  font-family: cursive;
+  margin-top:-30px;
+  margin-bottom: 80px;
+  margin-left:150px;
+  font-size: 20px;
+
+}
+
+.photo {
+ background-image: url(https://media.npr.org/assets/img/2015/12/04/best-books-2015-8c5b457cbb33d68c25a146f0ab55fc654bb40264-s1100-c50.jpg);
+ background-size: cover;
+ background-repeat: no-repeat;
+ width: 1250px;
+ height: 300px;
+ text-align: center;
+ color: white;
+ font-size: 60px;
+ margin-left: 20px;
+ padding-top: 200px;
+ padding-bottom:-30px;
+ text-decoration: underline;
+ text-shadow: 2px 2px;
+ font-family: cursive;
+}
+
+ .with {
+
+   text-align: center;
+    margin-top: 60px;
+    font-size:30px ;
+    font-family:papyrus;
+    font-weight: 600;
+   text-shadow: 2px 2px;
+  
+}
+
+.brem {
+
+display: flex;
+justify-content: space-around;
+
+}
+
+.bbb {
+ background-color:deepskyblue;
+ color: white;
+ font-size: 20px;
+ border-radius: 400px;
+ width: 150px;
+ text-align: center;
+ margin-top: 10px;
+ padding-top: 30px;
+ height: 80px;
+}
+
+.iii {
+ background-color:deepskyblue;
+  color: white;
+  font-size:20px;
+  border-radius: 400px;
+  width: 200px;
+  text-align: center;
+  margin-top: 5px;
+  padding-top: 40px;
+  height: 80px;
+}
+
+.ooo {
+
+  background-color:deepskyblue;
+  color: white;
+  font-size:20px;
+  border-radius: 400px;
+  width: 200px;
+  text-align: center;
+  margin-top: 5px;
+  padding-top: 40px;
+  height: 80px;
+}
+
+.heyy {
+
+ display: flex;
+ justify-content: space-around;
+ font-style: italic;
+font-size: 15px;
+ text-decoration:overline ;
+ color: darkgrey;
+}
+
+.hehehe {
+background-image: url(https://img.freepik.com/free-vector/young-people-sitting-sofa-with-laptop-book_74855-7957.jpg);
+ background-size: cover;
+ background-repeat: no-repeat;
+height: 600px;
+ text-align: left;
+ text-align: center;
+ padding-top: 90px;
+ padding-left: 80px;
+ padding-right: 80px;
+ font-style: oblique;
+}
+
+
+.tbc {
+   font-size: 40px;
+   margin-left: 20px;
+   margin-top: 40px;
+   text-decoration: none;
+
+} 
+.imgg {
+ margin-left: 50px;
+  margin-top: 40px;
+
+
+
+}
+.about {
+display: flex;
+flex-direction:column;
+margin-top:0px;
+margin-bottom: 400px;
+margin-left: 70px;
+font-size: 15px;
+
+}
+
+.container {
+
+margin-top:20px;
+background-color: lightgrey;
+ height:800px;
+ margin-left:0px;
+
+
+}
+
+.search {
+ width: 180px;
+}
+
+
+
+.help {
+ 
+margin-top: -850px;
+ margin-left:600px;
+ font-size: 25px;
+ font-family: cursive;
+ text-decoration: underline;
+ 
+}
+
+
+.cont {
+ margin-left: 900px;
+  margin-top: -60px;
+ font-size: 25px;
+ font-family: cursive;
+ text-decoration: underline;
+
+}
+
+.helpii {
+
+ display: flex;
+ flex-direction: column;
+ margin-left: 600px;
+}
+
+.social {
+ 
+ display: flex;
+ flex-direction: column;
+ margin-left:900px;
+ margin-top:-170px;
+
+}
+
+.symbols {
+
+  display: flex;
+  margin-left: 1100px;
+  margin-top: -230px;
+
+
+
+}

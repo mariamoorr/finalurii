@@ -119,7 +119,9 @@ height: 1000px;
 margin-top:-20px;
 background-color: lightgrey;
  height:700px;
- margin-left: 80px;
+ margin-left:0px;
+
+
 }
 
 .search {
@@ -140,10 +142,36 @@ background-color: lightgrey;
 
 
 .cont {
- margin-left: 800px;
+ margin-left: 900px;
   margin-top: -60px;
  font-size: 25px;
  font-family: cursive;
  text-decoration: underline;
+
+}
+
+.helpii {
+
+ display: flex;
+ flex-direction: column;
+ margin-left: 600px;
+}
+
+.social {
+ 
+ display: flex;
+ flex-direction: column;
+ margin-left: 900px;
+ margin-top: -170px;
+
+}
+
+.symbols {
+
+  display: flex;
+  margin-left: 1100px;
+  margin-top: -230px;
+
+
 
 }

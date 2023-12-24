@@ -1,0 +1,48 @@
+.tet {  
+
+  width: 70px;
+  height: 70px;
+  margin-top: 30px;
+  margin-left: 70px;
+
+ }
+
+.cee {
+
+margin-top: -30px;
+
+}
+
+
+.png {
+
+  display:flex;
+  justify-content:space-between;
+  margin-right: 180px;
+  font-family: cursive;
+  margin-top:-30px;
+  margin-bottom: 80px;
+  margin-left: 150px;
+  font-size: 20px;
+}
+
+.container1 {
+
+background-color: lightgrey;
+width: 1250px;
+height: 300px;
+
+}
+
+
+
+
+.books {
+
+ display: flex;
+ justify-content: space-around;
+margin-top: 100px;
+
+
+}
+
